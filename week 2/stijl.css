@@ -1,0 +1,22 @@
+body {
+    background-color: #d9ddd7;
+    font-family: Verdana;
+}
+h1 {
+    color: #03841f;
+}
+p  {
+    background-color: #6a7689;
+    color: #ffffff;
+    padding: 20px;
+}
+#paragraaf {
+    padding: 20px;
+}
+.highlight {
+    color: yellow;
+    border: 2px yellow;
+    border-style: solid;
+    margin: 0% 20%;
+    text-align: center;
+}

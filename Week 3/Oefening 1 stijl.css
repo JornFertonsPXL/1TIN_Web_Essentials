@@ -1,0 +1,30 @@
+body {
+    background-color: #6a7689;
+}
+td {
+    width: 14.28%;
+}
+table {
+    width: 100%;
+}
+thead {
+    text-align: center;
+    background-color: #27426d;
+    color: white;
+}
+tbody {
+    text-align: center;
+}
+tfoot {
+    text-align: center;
+    background-color: #27426d;
+    color: white;
+}
+.highlight {
+    background-color: #4f8cef;
+    color: white;
+}
+.highlight2 {
+    background-color: #6facff;
+    color: white;
+}
